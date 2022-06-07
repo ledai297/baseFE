@@ -1,0 +1,12 @@
+.nav-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: white;
+    height: 2rem;
+
+    .nav-bar-item{
+        margin-right: 1rem;
+    }
+}

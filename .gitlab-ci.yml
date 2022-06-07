@@ -1,0 +1,7 @@
+include:
+  - project: 'sapo-core/gitlab-ci-template'
+    file: '/Docker.gitlab-ci.yml'
+  - project: 'sapo-core/gitlab-ci-template'
+    file: '/Trigger.gitlab-ci.yml'
+  - project: 'sapo-core/gitlab-ci-template'
+    file: '/NotifyPipeline.gitlab-ci.yml'

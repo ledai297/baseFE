@@ -1,0 +1,23 @@
+export const authorities = {
+    admin: "ROLE_ADMIN",
+    superAdmin: "ROLE_SUPER_ADMIN",
+    marketVisitor: "ROLE_MARKET_VISITOR",
+    saleManager: "ROLE_SALE_MANAGER",
+    saleGroupLeader: "ROLE_SALE_GROUP_LEADER",
+    saleEmployee: "ROLE_SALE_EMPLOYEE",
+    marketVendor: "ROLE_MARKET_VENDOR",
+    accountingEmployee: "ROLE_ACCOUNTING_EMPLOYEE",
+    accountingGroupLeader: "ROLE_ACCOUNTING_GROUP_LEADER",
+    accountingManager: "ROLE_ACCOUNTING_MANAGER",
+    customerSuccessEmployee: "ROLE_CUSTOMER_SUCCESS_EMPLOYEE",
+    customerSuccessGroupLeader: "ROLE_CUSTOMER_SUCCESS_GROUP_LEADER",
+    customerSuccessManager: "ROLE_CUSTOMER_SUCCESS_MANAGER",
+    purchaseEmployee: "ROLE_PURCHASING_EMPLOYEE",
+    purchasingGroupLeader: "ROLE_PURCHASING_GROUP_LEADER",
+    purchasingManager: "ROLE_PURCHASING_MANAGER",
+    operationEmployee: "ROLE_OPERATION_EMPLOYEE",
+    operationGroupLeader: "ROLE_OPERATION_GROUP_LEADER",
+    operationManager: "ROLE_OPERATION_MANAGER",
+    tester: "ROLE_TESTER",
+    systemOperator: "ROLE_SYSTEM_OPERATOR"
+}

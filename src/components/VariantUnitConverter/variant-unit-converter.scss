@@ -1,0 +1,14 @@
+table.variant-unit-converter {
+    tr > th:first-child, td:first-child {
+        width: 10px;
+    }
+
+    .add-more {
+        width: max-content;
+        margin-top: 10px;
+    }
+}
+
+.dialog-content {
+    max-height: 70vh;
+}

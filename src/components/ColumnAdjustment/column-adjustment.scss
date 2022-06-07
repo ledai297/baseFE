@@ -1,0 +1,8 @@
+.border-bottom{
+    border-bottom: 1px solid #ddd;
+}
+.MuiDialogContent-root {
+    .border-bottom:last-child {
+        border-bottom: unset;
+    }
+}
